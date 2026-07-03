@@ -33,10 +33,11 @@ fun_fact: I turn ideas into fun, working apps.
 <div align="center">
 
 <a href="https://github.com/Bek023/ConnectHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=ConnectHub&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/ConnectHub-Real--time%20chat%20app%20(Flutter)-0e75b6?style=for-the-badge&logo=flutter&logoColor=white" />
 </a>
+<br/>
 <a href="https://github.com/Bek023/game2048">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=game2048&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/game2048-2048%20game%20(Flutter)-6dd5ed?style=for-the-badge&logo=flutter&logoColor=white" />
 </a>
 
 </div>
@@ -57,8 +58,8 @@ fun_fact: I turn ideas into fun, working apps.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bek023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mansur's GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bek023&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bek023&show_icons=true&theme=tokyonight&hide_border=true" alt="Mansur's GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bek023&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" width="38%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bek023&theme=tokyonight&hide_border=true" alt="streak stats" width="60%"/>
 

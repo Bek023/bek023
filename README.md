@@ -16,12 +16,12 @@ role: Frontend & Mobile (Flutter) Developer
 currently_building: ConnectHub
 currently_learning: Flutter, Clean Architecture
 ask_me_about: [React, Next.js, Flutter, Angular, TypeScript]
-fun_fact: I turn ideas into face-recognition, CRM & mobile apps.
+fun_fact: I turn ideas into fun, working apps.
 ```
 
 - 🔭 I'm currently working on **[ConnectHub](https://github.com/Bek023/ConnectHub)** — a real-time chat app built with Flutter
 - 🌱 I'm currently deepening my skills in **Flutter** and mobile architecture
-- 👨‍💻 I build face-ID attendance systems, school/business CRMs, and cross-platform apps
+- 🎮 Also built **[game2048](https://github.com/Bek023/game2048)** for fun with Flutter
 - 💬 Ask me about **React, Next.js, Flutter, Angular, TypeScript**
 - 📫 Reach me at **tolmasivich.mansur@gmail.com**
 - ⚡ Fun fact: I enjoy turning repetitive manual processes into automated apps
@@ -34,18 +34,6 @@ fun_fact: I turn ideas into face-recognition, CRM & mobile apps.
 
 <a href="https://github.com/Bek023/ConnectHub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=ConnectHub&theme=tokyonight" />
-</a>
-<a href="https://github.com/Bek023/faceid-korxona">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=faceid-korxona&theme=tokyonight" />
-</a>
-<a href="https://github.com/Bek023/school_crm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=school_crm&theme=tokyonight" />
-</a>
-<a href="https://github.com/Bek023/NBek_gps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=NBek_gps&theme=tokyonight" />
-</a>
-<a href="https://github.com/Bek023/mini-browser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=mini-browser&theme=tokyonight" />
 </a>
 <a href="https://github.com/Bek023/game2048">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bek023&repo=game2048&theme=tokyonight" />

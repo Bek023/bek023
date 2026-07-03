@@ -58,8 +58,8 @@ fun_fact: I turn ideas into fun, working apps.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bek023&show_icons=true&theme=tokyonight&hide_border=true" alt="Mansur's GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bek023&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" width="38%"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Public%20repos&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbek023" alt="public repos"/>
+<img src="https://img.shields.io/github/last-commit/bek023/ConnectHub?style=for-the-badge&color=6dd5ed&label=last%20commit" alt="last commit"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bek023&theme=tokyonight&hide_border=true" alt="streak stats" width="60%"/>
 

@@ -1,43 +1,34 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=220&section=header&text=Mansur%20Tuyg'unov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=220&section=header&text=Hi%20there,%20I'm%20Mansur%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%26%20Flutter%20Developer%20from%20Uzbekistan&descAlignY=52&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/bek023">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6DD5ED&center=true&vCenter=true&width=500&lines=Frontend+%26+Flutter+Developer;Turning+ideas+into+clean+code;Building+scalable+web+%26+mobile+apps" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bek023&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=6dd5ed&label=Followers&style=flat-square&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbek023" alt="followers"/>
-  <img src="https://img.shields.io/badge/Location-Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF-0e75b6?style=flat-square" alt="location"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=bek023&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=followers&style=for-the-badge&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbek023&suffix=+followers" alt="followers"/>
 
 </div>
 
----
-
-### ⚡ About Me
+### 🧭 About me
 
 ```yaml
-developer: Mansur Tuyg'unov
-location: Samarkand, Uzbekistan 🇺🇿
-focus_areas: [Mobile Development, Modern Web, Scalable UI]
-currently_building: ConnectHub (Real-time Flutter chat)
-core_stack: [Flutter, Dart, Angular, React, TypeScript]
-motto: "Clean architecture, seamless user experiences."
+name: Mansur Tuyg'unov
+location: Uzbekistan 🇺🇿
+role: Frontend & Mobile (Flutter) Developer
+currently_building: ConnectHub
+currently_learning: Flutter, Clean Architecture
+ask_me_about: [React, Next.js, Flutter, Angular, TypeScript]
+fun_fact: I turn ideas into fun, working apps.
 ```
 
-- 🔭 Currently building **[ConnectHub](https://github.com/Bek023/ConnectHub)** — a real-time chat app built with Flutter
-- 🌱 Deepening my skills in **Flutter** and scalable mobile architecture
-- 🎮 Also shipped **[game2048](https://github.com/Bek023/game2048)** — a 2048 game built with Flutter
-- 💬 Ask me about **Flutter, Angular, React, TypeScript**
+- 🔭 I'm currently working on **[ConnectHub](https://github.com/Bek023/ConnectHub)** — a real-time chat app built with Flutter
+- 🌱 I'm currently deepening my skills in **Flutter** and mobile architecture
+- 🎮 Also built **[game2048](https://github.com/Bek023/game2048)** for fun with Flutter
+- 💬 Ask me about **React, Next.js, Flutter, Angular, TypeScript**
 - 📫 Reach me at **tolmasivich.mansur@gmail.com**
+- ⚡ Fun fact: I enjoy turning repetitive manual processes into automated apps
 
 <br/>
 
-### 🚀 Featured Projects
+### 🚀 Featured projects
 
 <div align="center">
 
@@ -53,7 +44,7 @@ motto: "Clean architecture, seamless user experiences."
 
 <br/>
 
-### 🛠️ Tech Stack
+### 🛠️ Tech stack
 
 <div align="center">
 
@@ -63,7 +54,7 @@ motto: "Clean architecture, seamless user experiences."
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub stats
 
 <div align="center">
 
@@ -72,13 +63,13 @@ motto: "Clean architecture, seamless user experiences."
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bek023&theme=tokyonight&hide_border=true" alt="streak stats" width="60%"/>
 
-<img src="./contrib.svg" alt="contribution chart" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bek023&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
 
 </div>
 
 <br/>
 
-### 🌐 Connect with Me
+### 🌐 Connect with me
 
 <div align="center">
 

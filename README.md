@@ -63,7 +63,7 @@ fun_fact: I turn ideas into fun, working apps.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bek023&theme=tokyonight&hide_border=true" alt="streak stats" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bek023&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
+<img src="https://ghchart.rshah.org/6dd5ed/bek023" alt="contribution chart" width="90%"/>
 
 </div>
 
